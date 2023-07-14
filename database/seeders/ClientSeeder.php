@@ -21,7 +21,7 @@ class ClientSeeder extends Seeder
                 'middle_name' => '',
                 'address' => 'Macaas, Tubigon, Bohol',
                 'birth_date' => '09-07-2000',
-                'phone_number' => '09087446995',
+                'phone_number' => '09568250887',
                 'email' => 'aldjohngolosinda@gmail.com',
                 'initial_deposit' => '200000',
             ],
