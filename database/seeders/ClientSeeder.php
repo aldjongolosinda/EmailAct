@@ -16,8 +16,8 @@ class ClientSeeder extends Seeder
         Client::factory(20)->create();
         $cl = [
             [
-                'last_name' => 'Salutan',
-                'first_name' => 'Aldjohn Golosinda',
+                'last_name' => 'Golosinda',
+                'first_name' => 'Aldjohn',
                 'middle_name' => '',
                 'address' => 'Macaas, Tubigon, Bohol',
                 'birth_date' => '09-07-2000',
